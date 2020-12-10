@@ -267,6 +267,10 @@ VariationCount=1
 Variation1=Designator=R2|UniqueId=\LJQPDYAP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Adesa-iPhone-Case\Design Rule Check - GlassLink-PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Address1
 Value=
