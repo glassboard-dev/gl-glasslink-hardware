@@ -1,0 +1,884 @@
+Added Component: Designator=C1(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-1729-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402MRX5R5BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0402MRX5R5BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/8/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-1729-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402MRX5R5BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0402MRX5R5BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/8/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12130-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2NP01H220J050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2NP01H220J050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12130-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2NP01H220J050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2NP01H220J050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC0402(1005)70_L)
+Add component (AddParameter): Name = "Component Type"; Value = "CAP - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "445-12157-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CGA2B2X5R1A104M050BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(FTSH-105-01-F-DV-K)
+Add component (AddParameter): Name = "Component Type"; Value = "CONN - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "SAM8796-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "10/4/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(FTSH-105-01-F-DV-K)
+Add component (AddParameter): Name = "Component Type"; Value = "CONN - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "SAM8796-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "10/4/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(USB4085-GF-A)
+Add component (AddParameter): Name = "Component Type"; Value = "CONN - PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "2073-USB4085-GF-ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4085-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "USB4085-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/8/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Stephen Murphy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB4085-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LTST-C191KGKT)
+Add component (AddParameter): Name = "Component Type"; Value = "LED - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "160-1647-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LED0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "6/8/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LTST-C191KGKT)
+Add component (AddParameter): Name = "Component Type"; Value = "LED - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "160-1446-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LED0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8/25/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LTST-C191KGKT)
+Add component (AddParameter): Name = "Component Type"; Value = "LED - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "160-1447-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LED0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "6/8/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SN65220DBVR-L)
+Add component (AddParameter): Name = "Component Type"; Value = "DIO - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "296-9694-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN65220DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SN65220DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "5/9/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SN65220DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=FID1(fid_30mil)
+Add component (AddParameter): Name = "Component Type"; Value = "FID - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "11/19/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=FID2(fid_30mil)
+Add component (AddParameter): Name = "Component Type"; Value = "FID - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "11/19/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=FID3(fid_30mil)
+Add component (AddParameter): Name = "Component Type"; Value = "FID - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "11/19/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=LOGO1(Glassboard-Sm)
+Add component (AddParameter): Name = "Part Number"; Value = "Glassboard-Logo-Sm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "11/23/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-10.0KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-10.0KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "P1.50KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF1501X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1501X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not For Use"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.1W"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "P1.50KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF1501X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1501X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not For Use"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.1W"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "P470LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF4700X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF4700X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not For Use"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.1W"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "P4.70KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not For Use"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.1W"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "P4.70KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/9/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Drew Westrick"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not For Use"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.1W"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-22.0LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-22.0LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-100KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-10.0KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Component Type"; Value = "RES - CHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "311-100LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RES0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/6/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.063W"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(TL1014BF160QG)
+Add component (AddParameter): Name = "Component Type"; Value = "SWITCH - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "0.05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "EG5042CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "10/8/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=U1(AP2204K-3.3TRG1_N)
+Add component (AddParameter): Name = "Component Type"; Value = "IC - LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "AP2204K-3.3TRG1DITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AP2204K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AP2204K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "6/14/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AP2204K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM32F103CBT6)
+Add component (AddParameter): Name = "Component Type"; Value = "IC - MICRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "497-6288-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/7/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Stephen Murphy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2V ~ 3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(ABM3B-8.000MHZ-B2-T)
+Add component (AddParameter): Name = "Component Type"; Value = "OSC - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part Number"; Value = "535-9720-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ABM3B-8.000MHZ-B2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SDM-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ABM3B-8.000MHZ-B2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "9/18/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Randy Parmerlee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ABM3B-8.000MHZ-B2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=CN1-1
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=+3V3 Pin=U1-5
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-9
+Added Pin To Net: NetName=+3V3 Pin=U2-24
+Added Pin To Net: NetName=+3V3 Pin=U2-36
+Added Pin To Net: NetName=+3V3 Pin=U2-48
+Added Net: Name=+3V3
+Added Pin To Net: NetName=3V3_DIV Pin=R6-1
+Added Pin To Net: NetName=3V3_DIV Pin=R7-2
+Added Pin To Net: NetName=3V3_DIV Pin=U2-10
+Added Net: Name=3V3_DIV
+Added Pin To Net: NetName=5V_USB Pin=C1-2
+Added Pin To Net: NetName=5V_USB Pin=C2-2
+Added Pin To Net: NetName=5V_USB Pin=CN3-3
+Added Pin To Net: NetName=5V_USB Pin=CN3-4
+Added Pin To Net: NetName=5V_USB Pin=CN3-13
+Added Pin To Net: NetName=5V_USB Pin=CN3-14
+Added Pin To Net: NetName=5V_USB Pin=U1-1
+Added Pin To Net: NetName=5V_USB Pin=U1-3
+Added Net: Name=5V_USB
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-9
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-5
+Added Pin To Net: NetName=GND Pin=CN3-1
+Added Pin To Net: NetName=GND Pin=CN3-2
+Added Pin To Net: NetName=GND Pin=CN3-15
+Added Pin To Net: NetName=GND Pin=CN3-16
+Added Pin To Net: NetName=GND Pin=CN3-17
+Added Pin To Net: NetName=GND Pin=CN3-18
+Added Pin To Net: NetName=GND Pin=CN3-19
+Added Pin To Net: NetName=GND Pin=CN3-20
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D4-5
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=IF_R\E\S\E\T\ Pin=CN1-10
+Added Pin To Net: NetName=IF_R\E\S\E\T\ Pin=R1-1
+Added Pin To Net: NetName=IF_R\E\S\E\T\ Pin=U2-7
+Added Net: Name=IF_R\E\S\E\T\
+Added Pin To Net: NetName=IF_SWCLK Pin=CN1-4
+Added Pin To Net: NetName=IF_SWCLK Pin=U2-37
+Added Net: Name=IF_SWCLK
+Added Pin To Net: NetName=IF_SWDIO Pin=CN1-2
+Added Pin To Net: NetName=IF_SWDIO Pin=U2-34
+Added Net: Name=IF_SWDIO
+Added Pin To Net: NetName=LED_COM_GREEN Pin=D2-2
+Added Pin To Net: NetName=LED_COM_GREEN Pin=U2-41
+Added Net: Name=LED_COM_GREEN
+Added Pin To Net: NetName=LED_DAP_BLUE Pin=D1-2
+Added Pin To Net: NetName=LED_DAP_BLUE Pin=U2-42
+Added Net: Name=LED_DAP_BLUE
+Added Pin To Net: NetName=LED_PWR_RED Pin=R5-1
+Added Pin To Net: NetName=LED_PWR_RED Pin=U2-30
+Added Net: Name=LED_PWR_RED
+Added Pin To Net: NetName=NetCN3_7 Pin=CN3-7
+Added Pin To Net: NetName=NetCN3_7 Pin=R9-1
+Added Net: Name=NetCN3_7
+Added Pin To Net: NetName=NetCN3_8 Pin=CN3-8
+Added Pin To Net: NetName=NetCN3_8 Pin=R8-1
+Added Net: Name=NetCN3_8
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-44
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U2-25
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=OSC_IN Pin=C9-2
+Added Pin To Net: NetName=OSC_IN Pin=U2-5
+Added Pin To Net: NetName=OSC_IN Pin=X1-1
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C10-2
+Added Pin To Net: NetName=OSC_OUT Pin=U2-6
+Added Pin To Net: NetName=OSC_OUT Pin=X1-3
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=C11-2
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=CN2-10
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=R2-1
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=SW1-1
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=SW1-3
+Added Pin To Net: NetName=TGT_R\E\S\E\T\ Pin=U2-18
+Added Net: Name=TGT_R\E\S\E\T\
+Added Pin To Net: NetName=TGT_SWCLK Pin=CN2-4
+Added Pin To Net: NetName=TGT_SWCLK Pin=U2-15
+Added Pin To Net: NetName=TGT_SWCLK Pin=U2-26
+Added Net: Name=TGT_SWCLK
+Added Pin To Net: NetName=TGT_SWDIO Pin=CN2-2
+Added Pin To Net: NetName=TGT_SWDIO Pin=R12-2
+Added Pin To Net: NetName=TGT_SWDIO Pin=U2-27
+Added Net: Name=TGT_SWDIO
+Added Pin To Net: NetName=TGT_SWO Pin=CN2-6
+Added Pin To Net: NetName=TGT_SWO Pin=U2-31
+Added Net: Name=TGT_SWO
+Added Pin To Net: NetName=TGT_UART_RX Pin=CN2-7
+Added Pin To Net: NetName=TGT_UART_RX Pin=U2-12
+Added Net: Name=TGT_UART_RX
+Added Pin To Net: NetName=TGT_UART_TX Pin=CN2-9
+Added Pin To Net: NetName=TGT_UART_TX Pin=U2-13
+Added Net: Name=TGT_UART_TX
+Added Pin To Net: NetName=TGT_USB_DM Pin=D4-3
+Added Pin To Net: NetName=TGT_USB_DM Pin=D4-4
+Added Pin To Net: NetName=TGT_USB_DM Pin=R9-2
+Added Pin To Net: NetName=TGT_USB_DM Pin=U2-32
+Added Net: Name=TGT_USB_DM
+Added Pin To Net: NetName=TGT_USB_DP Pin=D4-1
+Added Pin To Net: NetName=TGT_USB_DP Pin=D4-6
+Added Pin To Net: NetName=TGT_USB_DP Pin=R8-2
+Added Pin To Net: NetName=TGT_USB_DP Pin=U2-33
+Added Net: Name=TGT_USB_DP

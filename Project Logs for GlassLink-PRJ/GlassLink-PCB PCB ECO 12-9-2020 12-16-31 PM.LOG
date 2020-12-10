@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TGT_USB_DP Pin=D4-1
+Removed Pin From Net: NetName=TGT_USB_DM Pin=D4-3
+Removed Pin From Net: NetName=TGT_USB_DM Pin=D4-4
+Removed Pin From Net: NetName=TGT_USB_DP Pin=D4-6
+Added Pin To Net: NetName=NetCN3_8 Pin=D4-1
+Added Pin To Net: NetName=NetCN3_7 Pin=D4-3
+Added Pin To Net: NetName=NetCN3_7 Pin=D4-4
+Added Pin To Net: NetName=NetCN3_8 Pin=D4-6
