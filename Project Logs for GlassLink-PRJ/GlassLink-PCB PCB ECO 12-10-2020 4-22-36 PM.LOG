@@ -1,0 +1,5 @@
+Added Component: Designator=*(GLASSBOARD-G-5X5MM)
+Add component (AddParameter): Name = "Part Number"; Value = "Glassboard-G-Logo-5x5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "12/10/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Stephen Murphy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
