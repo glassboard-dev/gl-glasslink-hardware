@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=+3V3 Pin=TP1-1
-Removed Pin From Net: NetName=IF_SWDIO Pin=TP2-1
-Removed Pin From Net: NetName=IF_SWCLK Pin=TP3-1
-Removed Pin From Net: NetName=IF_R\E\S\E\T\ Pin=TP4-1
-Removed Pin From Net: NetName=GND Pin=TP5-1

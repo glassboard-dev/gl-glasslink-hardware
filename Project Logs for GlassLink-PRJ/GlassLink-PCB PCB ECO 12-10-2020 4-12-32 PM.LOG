@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=LOGO? Old Footprint=GLASSBOARD-G-7X7MM New Footprint=GLASSBOARD-G-5X5MM
-Change component parameters: Designator = "LOGO?" ("LOGO?"); Footprint = "GLASSBOARD-G-7X7MM"; UniqueID = "\EHHVVHKE" ("\EHHVVHKE")
-Change component parameters (AddParameter): Name = "Part Number"; Value = "Glassboard-G-Logo-5x5MM"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Published"; Value = "12/10/2020"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Publisher"; Value = "Stephen Murphy"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
