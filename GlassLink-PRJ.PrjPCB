@@ -28,8 +28,8 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Adesa-iPhone-Case
-LogFolderPath=
+OutputPath=Project Outputs
+LogFolderPath=Project Logs
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
@@ -162,7 +162,7 @@ Description=PRODUCTION - DNP
 AllowFabrication=0
 ParameterCount=0
 VariationCount=1
-Variation1=Designator=R2|UniqueId=\LJQPDYAP|Kind=1|AlternatePart= 
+Variation1=Designator=CN1|UniqueId=\NTWKXQIJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -362,175 +362,175 @@ DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Address1
+Name=VersionControl_RevNumber
 Value=
 
 [Parameter2]
-Name=Address2
+Name=VersionControl_ProjFolderRevNumber
 Value=
 
 [Parameter3]
-Name=Address3
-Value=
+Name=TotalSheets
+Value=8
 
 [Parameter4]
-Name=Address4
+Name=Title
 Value=
 
 [Parameter5]
-Name=Application_BuildNumber
+Name=Time
 Value=
 
 [Parameter6]
-Name=Approved By
-Value=Ethan Harmon
+Name=Status
+Value=DRAFT
 
 [Parameter7]
-Name=Author
-Value=
+Name=SheetTotal
+Value=8
 
 [Parameter8]
-Name=CheckedBy
-Value=
+Name=RevisionDescription
+Value=DRAFT
 
 [Parameter9]
-Name=Company
-Value=Glassboard
+Name=Revision
+Value=0.1
 
 [Parameter10]
-Name=companyaddress1
-Value=1060 N. Capitol St.
+Name=rev
+Value=0.1
 
 [Parameter11]
-Name=companyaddress2
-Value=Suite E-120
+Name=projecttitle
+Value=GlassLink
 
 [Parameter12]
-Name=companyaddress3
-Value=Indianapolis, In 46204
+Name=ProjectName
+Value=GlassLink
 
 [Parameter13]
-Name=companyaddress4
-Value=317-644-4960
+Name=partnumber
+Value=TBD
 
 [Parameter14]
-Name=CompanyName
-Value=Glassboard
-
-[Parameter15]
-Name=CreationDate
-Value=12/07/2020
-
-[Parameter16]
-Name=CurrentDate
+Name=Organization
 Value=
 
+[Parameter15]
+Name=Name
+Value=
+
+[Parameter16]
+Name=ModifiedDate
+Value=12/07/2020
+
 [Parameter17]
-Name=CurrentSheetNumber
-Value=1
+Name=IsUserConfigurable
+Value=
 
 [Parameter18]
-Name=CurrentTime
+Name=ImagePath
 Value=
 
 [Parameter19]
-Name=Customer
-Value=
+Name=Engineer
+Value=Stephen Murphy
 
 [Parameter20]
-Name=DocumentFullPathAndName
-Value=C:\glassboard\hardware\altium\projects\bic\cell-holder\[01] BIC-Cell-Holder.SchDoc
+Name=Edited By
+Value=Stephen Murphy
 
 [Parameter21]
-Name=DocumentName
-Value=
+Name=DrawnBy
+Value=Stephen Murphy
 
 [Parameter22]
 Name=DocumentNumber
 Value=1
 
 [Parameter23]
-Name=DrawnBy
-Value=Stephen Murphy
+Name=DocumentName
+Value=
 
 [Parameter24]
-Name=Edited By
-Value=Stephen Murphy
+Name=DocumentFullPathAndName
+Value=C:\glassboard\hardware\altium\projects\bic\cell-holder\[01] BIC-Cell-Holder.SchDoc
 
 [Parameter25]
-Name=Engineer
-Value=Stephen Murphy
+Name=Customer
+Value=
 
 [Parameter26]
-Name=ImagePath
+Name=CurrentTime
 Value=
 
 [Parameter27]
-Name=IsUserConfigurable
-Value=
+Name=CurrentSheetNumber
+Value=1
 
 [Parameter28]
-Name=ModifiedDate
-Value=12/07/2020
+Name=CurrentDate
+Value=
 
 [Parameter29]
-Name=Name
-Value=
+Name=CreationDate
+Value=12/07/2020
 
 [Parameter30]
-Name=Organization
-Value=
+Name=CompanyName
+Value=Glassboard
 
 [Parameter31]
-Name=partnumber
-Value=TBD
+Name=companyaddress4
+Value=317-644-4960
 
 [Parameter32]
-Name=ProjectName
-Value=GlassLink
+Name=companyaddress3
+Value=Indianapolis, In 46204
 
 [Parameter33]
-Name=projecttitle
-Value=GlassLink
+Name=companyaddress2
+Value=Suite E-120
 
 [Parameter34]
-Name=rev
-Value=0.1
+Name=companyaddress1
+Value=1060 N. Capitol St.
 
 [Parameter35]
-Name=Revision
-Value=0.1
+Name=Company
+Value=Glassboard
 
 [Parameter36]
-Name=RevisionDescription
-Value=DRAFT
+Name=CheckedBy
+Value=
 
 [Parameter37]
-Name=SheetTotal
-Value=8
+Name=Author
+Value=
 
 [Parameter38]
-Name=Status
-Value=DRAFT
+Name=Approved By
+Value=Ethan Harmon
 
 [Parameter39]
-Name=Time
+Name=Application_BuildNumber
 Value=
 
 [Parameter40]
-Name=Title
+Name=Address4
 Value=
 
 [Parameter41]
-Name=TotalSheets
-Value=8
+Name=Address3
+Value=
 
 [Parameter42]
-Name=VersionControl_ProjFolderRevNumber
+Name=Address2
 Value=
 
 [Parameter43]
-Name=VersionControl_RevNumber
+Name=Address1
 Value=
 
 [Configuration1]
@@ -580,7 +580,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Adesa-iPhone-Case
+OutputDir=Project Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1127,6 +1127,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
