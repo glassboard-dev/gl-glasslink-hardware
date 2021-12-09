@@ -47,17 +47,6 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn65220.pdf" H 3100 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x05_Odd_Even J2
-U 1 1 61B17CD2
-P 8600 1700
-F 0 "J2" H 8650 2117 50  0000 C CNN
-F 1 "FTSH-105-01-F-DV-K" H 8500 2200 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 8600 1700 50  0001 C CNN
-F 3 "~" H 8600 1700 50  0001 C CNN
-	1    8600 1700
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R_Small_US R8
 U 1 1 61B232BE
 P 3900 2500
@@ -381,7 +370,6 @@ Wire Wire Line
 	9500 1700 9600 1700
 Wire Wire Line
 	9500 2000 9600 2000
-NoConn ~ 8400 1500
 $Comp
 L Device:R_Small_US R10
 U 1 1 61B6C5D3
@@ -598,17 +586,6 @@ F 1 "10k" V 9200 3500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 9100 3500 50  0001 C CNN
 F 3 "~" H 9100 3500 50  0001 C CNN
 	1    9100 3500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+3.3V #PWR0110
-U 1 1 61BDF3AC
-P 9100 3300
-F 0 "#PWR0110" H 9100 3150 50  0001 C CNN
-F 1 "+3.3V" H 9115 3473 50  0000 C CNN
-F 2 "" H 9100 3300 50  0001 C CNN
-F 3 "" H 9100 3300 50  0001 C CNN
-	1    9100 3300
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1131,4 +1108,25 @@ Wire Notes Line
 	1300 5800 1300 5100
 Text Notes 1400 5300 0    100  ~ 20
 Fiducials
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even J2
+U 1 1 61B17CD2
+P 8600 1700
+F 0 "J2" H 8650 2117 50  0000 C CNN
+F 1 "FTSH-105-01-F-DV-K" H 8500 2300 50  0000 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 8600 1700 50  0001 C CNN
+F 3 "~" H 8600 1700 50  0001 C CNN
+	1    8600 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 1500 8300 1500
+Text Label 8200 1400 2    50   ~ 0
+VTARGET
+Wire Wire Line
+	8300 1500 8300 1400
+Wire Wire Line
+	8300 1400 8200 1400
+Text Label 9100 3300 2    50   ~ 0
+VTARGET
 $EndSCHEMATC
