@@ -1,5 +1,13 @@
-# Glasslink - CMSIS-DAP Compatible Debugger & Programmer
-[![CY BY 4.0][license-shield]][https://creativecommons.org/licenses/by/4.0/]
+<p align="center">
+  <h3 align="center">⚡ Glasslink</h3>
+  <p align="center">
+    CMSIS-DAP Compatible Debugger & Programmer for ARM M-Cores
+  </p>
+</p>
+
+<br />
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ### Development ⚡
 The Glasslink hardware is currently developed in the open source ECAD software [KiCAD](https://www.kicad.org/). The board was created using as many of the included component symbols and footprints as possible. Any custom components are located in the ```Glasslink.lib``` and ```Glasslink.pretty``` files. Additional 3D models were also added to the designa and can be found in the ```models``` folder. The KiCAD [Teardrops](https://github.com/stimulu/kicad-teardrops) extension was used to add teardrops to SMD pads and Vias.
 
