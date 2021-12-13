@@ -22,7 +22,7 @@ On windows, to flash a piece of Glasslink hardware you can simply drag your comp
 #### Linux
 On linux, the ```dd``` command is used to write the firmware to your Glasslink hardware
 ```console
-sudo dd if=lpc11u35_if.bin of=/media/user/CRP\ DISABLD/ conv=notrunc
+sudo dd if=lpc11u35_if.bin of=/media/user/CRP\ DISABLD/firmware.bin conv=notrunc
 ```
 
 ### Usage 💻
