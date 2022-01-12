@@ -22,11 +22,11 @@ On windows, to flash a piece of Glasslink hardware you can simply drag your comp
 #### Linux
 On linux, the ```dd``` command is used to write the firmware to your Glasslink hardware
 ```console
-sudo dd if=lpc11u35_if.bin of=/media/user/CRP\ DISABLD/ conv=notrunc
+sudo dd if=lpc11u35_if.bin of=/media/user/CRP\ DISABLD/firmware.bin conv=notrunc
 ```
 
 ### Usage 💻
-There are two common applications for utilizing the Glasslink debug probe: [PyOCD](https://github.com/pyocd/pyOCD) and [OpenOCD](https://openocd.org/). Check the documentation for each on how to connect a probe, flash a target, debug, etc.
+There are two common applications for utilizing the Glasslink debug probe: [PyOCD](https://pyocd.io/) and [OpenOCD](https://openocd.org/). Check the documentation for each on how to connect a probe, flash a target, debug, etc.
 
 #### CDC Serial Port
 The Glasslink hardware enumerates not only as a CMSIS-DAP probe, but also as a CDC serial port. This port can be utilized to send UART/serial data from your Target to a connected Host PC. On Windows a new ```COM``` port should enumerate and on Linux a new ```ACM``` port should enumerate when the Glasslink probe is connected.
